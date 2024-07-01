@@ -57,7 +57,7 @@ const USER_CONFIG = {
   
   TIAN_API: {
     // 天行API KEY，如果使用天行API则需要填写此项
-    key: '',
+    key: '7f463458b944b9abe483cc26c835db63',
     
     /** 天行API相关，需要config中配置 TIAN_API_KEY  */
     // 早安心语, 填 false 则不使用，按需关闭不使用的功能可以提高运行速度
@@ -98,7 +98,7 @@ const USER_CONFIG = {
       id: 'oENvb6LLc1-FRZrEHWcHe3YY1id4',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: 'lgWc0Bpyij7x_kyVvRrQjn1coUhqPr-FjoyBBBDZ44k',
+      useTemplateId: '45ZRw3SI_CeE8bV9_zCstfD6X0yA5NaORas-5QAxIP4',
       // 所在省份或城市，也可以不填
       province: '四川',
       // 所在城市或县区
@@ -224,7 +224,7 @@ const USER_CONFIG = {
 
   // 使用微信测试号：【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
   // 使用其他通道时，请填写 config/template-config.cjs 中【推送完成提醒】模板的id
-  CALLBACK_TEMPLATE_ID: 'lgWc0Bpyij7x_kyVvRrQjn1coUhqPr-FjoyBBBDZ44k',
+  CALLBACK_TEMPLATE_ID: '45ZRw3SI_CeE8bV9_zCstfD6X0yA5NaORas-5QAxIP4',
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
