@@ -13,7 +13,6 @@ const USER_CONFIG = {
   // 使用微信测试号：公众号APP_SECRET
   APP_SECRET: '169d18b78a67386dfd0b5d6aaa507829',
 
-  TIAN_API.key: '7f463458b944b9abe483cc26c835db63'
 
   PROVINCE: '四川',
   CITY: '成都',
