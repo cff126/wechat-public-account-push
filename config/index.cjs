@@ -203,7 +203,7 @@ const USER_CONFIG = {
     },
     {
       name: '老婆1',
-      id: 'oENvb6LLc1-FRZrEHWcHe3YY1id4',
+      id: '',
       useTemplateId: '45ZRw3SI_CeE8bV9_zCstfD6X0yA5NaORas-5QAxIP4',
       province: '四川',
       city: '成都',
