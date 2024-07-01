@@ -204,7 +204,7 @@ const USER_CONFIG = {
     {
       name: '老婆1',
       id: 'oENvb6HlrJZwktJdhGm-6O0_sqXI',
-      useTemplateId: '5qcN88qUcIpc8JgdWXNsQIcAu5yCYqzlPaYnkonHAyE',
+      useTemplateId: 'gjG7vi9PemfpsBwD0r2O2op7q4JwJPofv2KExGeA3h4',
       province: '四川',
       city: '成都',
       horoscopeDate: '12-27',
